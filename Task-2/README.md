@@ -1,0 +1,1 @@
+This is my second Task where i did Exploratory Data Analysis (EDA) on the Titanic dataset using Python (Pandas, Matplotlib, Seaborn). Cleaned missing values, visualized survival patterns by gender, class, age & fare, and uncovered key insights into survival probabilities.
