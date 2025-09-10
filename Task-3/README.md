@@ -1,0 +1,1 @@
+Here i developed a decision tree model on the Bank Marketing dataset to forecast customer responses to product offerings. Focused on data preparation, model building, and performance evaluation to extract actionable insights.
